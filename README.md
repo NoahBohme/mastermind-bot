@@ -1,9 +1,9 @@
 # 🧠 Mastermind Bot: The Code-Breaking AI That Will Make You Question Your Life Choices
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/mastermind-bot)
-![GitHub top language](https://img.shields.io/github/languages/top/yourusername/mastermind-bot)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/mastermind-bot)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.mastermind-bot)
+![GitHub last commit](https://img.shields.io/github/last-commit/NoahBohme/mastermind-bot)
+![GitHub top language](https://img.shields.io/github/languages/top/NoahBohme/mastermind-bot)
+![GitHub stars](https://img.shields.io/github/stars/NoahBohme/mastermind-bot)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NoahBohme.mastermind-bot)
 
 > "I don't always play Mastermind, but when I do, I let an AI crush my soul." - Most Interesting Developer in the World
 
@@ -42,9 +42,6 @@ while (human.isAmazed()) {
 * JavaScript (The brain)
 * Your tears (The fuel)
 
-## 🎮 Demo Time!
-
-![Mastermind Bot Demo](https://media.giphy.com/media/your-gif-id-here/giphy.gif)
 
 ## 💡 How It Works (The Science Behind Your Defeat)
 
